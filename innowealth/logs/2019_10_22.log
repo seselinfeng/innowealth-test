@@ -1,0 +1,10 @@
+[2019-10-22 10:36:53,266] - _internal.py] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-22 10:36:53,266] - _internal.py] - INFO:  * Restarting with stat
+[2019-10-22 10:36:53,799] - _internal.py] - WARNING:  * Debugger is active!
+[2019-10-22 10:36:53,807] - _internal.py] - INFO:  * Debugger PIN: 316-414-665
+[2019-10-22 10:37:13,937] - _internal.py] - INFO: 127.0.0.1 - - [22/Oct/2019 10:37:13] "GET / HTTP/1.1" 404 -
+[2019-10-22 10:37:24,520] - demo.py] - ERROR: error msg
+[2019-10-22 10:37:24,520] - demo.py] - WARNING: warn msg
+[2019-10-22 10:37:24,520] - demo.py] - INFO: info msg
+[2019-10-22 10:37:24,521] - demo.py] - DEBUG: debug msg
+[2019-10-22 10:37:24,522] - _internal.py] - INFO: 127.0.0.1 - - [22/Oct/2019 10:37:24] "GET /api/v1.0/index HTTP/1.1" 200 -
